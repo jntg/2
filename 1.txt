@@ -1,11 +1,11 @@
 {"Home": [
-{"key":"APP","title":"影视","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/01.jpg"},
-{"key":"网页","title":"网页","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/02.jpg"},
-{"key":"采集","title":"采集","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/03.jpg"},
-{"key":"直播","title":"直播","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/04.jpg"},
-{"key":"历史","title":"历史","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/05.jpg"},
-{"key":"收藏","title":"收藏","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/06.jpg"},
-{"key":"推送","title":"推送","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/07.jpg"}
+{"key":"APP","title":"APP","pic":"http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"},
+{"key":"网页","title":"网页","pic":"http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"},
+{"key":"采集","title":"采集","pic":"http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"},
+{"key":"直播","title":"直播","pic":"http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"},
+{"key":"历史","title":"历史","pic":"http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"},
+{"key":"收藏","title":"收藏","pic":"http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"},
+{"key":"推送","title":"远程推送","pic":"http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"},
 {"key": "自选网页",
 "title": "经典轮播",
 "pic": "http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg",
